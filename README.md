@@ -7,3 +7,6 @@
 # Updata
 
 计划2025年5月底发布，欢迎持续关注
+2025.4.13 我们预训练了一个轻量化的识别模型，已将模型转为ONNX，最大程度发挥GPU性能
+下一周完成数据集清洗工作
+![1744616070711](https://github.com/user-attachments/assets/09a2bff3-d365-4f68-93ec-94bc46b0d9f8)
